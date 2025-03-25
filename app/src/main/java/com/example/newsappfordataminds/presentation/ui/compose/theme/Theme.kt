@@ -1,6 +1,5 @@
-package com.example.newsappfordataminds.ui.theme
+package com.example.newsappfordataminds.presentation.ui.compose.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

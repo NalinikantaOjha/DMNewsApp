@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NewsAppForDataMinds</string>
+    <string name="title">"🔥 Today's Headlines"</string>
+    <string name="error">there is an error</string>
+    <string name="details">See the detail picture here</string>
+    <string name="no_description">No description available.</string>
 </resources>
