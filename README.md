@@ -19,8 +19,6 @@ git clone [https://github.com/yourusername/NewsApp.git](https://github.com/Nalin
 
 🎨 Jetpack Compose UI – Fully built with Compose for a modern and responsive UI.
 
-📶 Offline Support – Caches news for offline reading.
-
 🏗 Architecture
 
 This project follows MVVM (Model-View-ViewModel) with Clean Architecture:
@@ -31,7 +29,7 @@ Presentation Layer (Jetpack Compose + ViewModel)
 
 Domain Layer (Use Cases, Business Logic)
 
-Data Layer (Repository, API, Local Storage)
+Data Layer (Repository, API)
 
 🛠 Tech Stack
 
